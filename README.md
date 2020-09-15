@@ -1,9 +1,9 @@
 # image-style-transfer
 ## need to install:
 
-1. python 3.6 (python 3.7 安装TensorFlow有些问题)
-2. tensorflow 1.2.1 -- (因为这个pretrained model 用了一些tensorflow2.0删除的函数)
-3. Pillow  # provides PIL
+1. python 3.6
+2. tensorflow 1.2.1
+3. Pillow
 4. imageIO
 
 ## Pretrained model: 
